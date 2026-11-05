@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-cash-coding-react-native",
+  "capabilityKey": "liberusoftware/module-accounting-cash-coding",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-accounting-cash-coding-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/accounting/nextjs/cash-coding.md",
+  "presentationPlan": "projects/accounting/react-native/cash-coding.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
